@@ -1,4 +1,4 @@
-# Password Strength Checker
+# [Password Strength Checker](https://che-pwd-str-1.onrender.com/)
 
 A simple, modern web application for checking password strength, built with **Flask** and styled using **Tailwind CSS**.  
 It evaluates passwords against common security criteria and provides suggestions for improvement.
